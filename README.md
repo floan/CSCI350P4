@@ -1,1 +1,7 @@
-# CS350P1
+# CS350P4
+
+### USC emails:
+
+### How to compile:
+
+### How to run:
